@@ -70,7 +70,7 @@ How to Run
 
 1. Clone the repository
 
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/amitraj231226-cmyk/CodeAlpha_Iris_Flower_Classification.git
 
 2. Open the project in VS Code
 
